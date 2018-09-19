@@ -1,0 +1,8 @@
+{
+    "version": "0.1.0",
+    "command": "Launch Casse-Brique",    
+    "windows": {
+        "command": "explorer.exe"
+    },
+    "args": ["index.html"]
+}
